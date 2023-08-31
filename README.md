@@ -36,4 +36,4 @@ src="https://img.shields.io/twitter/follow/Star_Boi10?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Zimil-Patel"><img src="https://github-readme-stats.vercel.app/api?username=Zimil-Patel&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Zimil-Patel's GitHub stats" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zimil-Patel&theme=tokyonight-duo)](https://git.io/streak-stats)
