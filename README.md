@@ -5,7 +5,7 @@ Application Developer
 ---------------------
 
 -> Hey there! I'm Zimil Patel, a coding enthusiast ;<br>
--> Currently pursuing my MCA, I hold a BCA degree and a passion for crafting innovative solutions with code ;<br>
+-> I hold a BCA + MCA degree and a passion for crafting innovative solutions with code ;<br>
 -> My creativity comes to life through Android apps, sculpted using Android Studio—combining Java, XML, and the FirebaseDatabase ;<br>
 -> Proficient in C, C++, and dart, I'm on an adventure to master the art of Flutter, as I believe in the power of versatile programming languages. Adapting is my superpower ;<br>
 
